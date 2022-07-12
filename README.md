@@ -7,7 +7,12 @@
 
 - 🌱 I’m currently learning **Web Developement and Generative Adverserial Networks(GANs)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/omkarae](https://github.com/omkarae)
+- 👨‍💻 All of my projects are available at [https://github.com/omkarae](https://github.com/omkarae)</br>
+  **Some of them are -**</br>
+                                          [Simon-Game](https://omkarae.github.io/Simon-Game/)</br>
+                                          [Dice-Game](https://omkarae.github.io/Dice-Game/)</br>
+                                          [Web-3.0](https://omkarae.github.io/web-3.0/)</br>
+                                          [Web-2.0](https://omkarae.github.io/web-2.0/)</br>
 
 - 📫 How to reach me **omkaredgaonkar@gmail.com**
 
