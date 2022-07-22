@@ -9,6 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/omkarae](https://github.com/omkarae)</br>
   **Some of them are -**</br>
+                                          [Newsletter-Signup](https://radiant-badlands-55255.herokuapp.com/)</br>
                                           [Simon-Game](https://omkarae.github.io/Simon-Game/)</br>
                                           [Dice-Game](https://omkarae.github.io/Dice-Game/)</br>
                                           [Web-3.0](https://omkarae.github.io/web-3.0/)</br>
