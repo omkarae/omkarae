@@ -9,6 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/omkarae](https://github.com/omkarae)</br>
   **Some of them are -**</br>
+                                          [Weather App](https://weather-app-hosted.herokuapp.com/)</br>
                                           [Newsletter-Signup-App](https://radiant-badlands-55255.herokuapp.com/)</br>
                                           [Simon-Game](https://omkarae.github.io/Simon-Game/)</br>
                                           [Dice-Game](https://omkarae.github.io/Dice-Game/)</br>
